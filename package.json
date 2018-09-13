@@ -2,7 +2,7 @@
   "name": "mongoose-encrypt-text",
   "version": "1.0.0",
   "description": "Encrypted Text Schema Type for Mongoose",
-  "main": "index.js",
+  "main": "src/encrypt-text.js",
   "scripts": {
     "test": "ava"
   },
