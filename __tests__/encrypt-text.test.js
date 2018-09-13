@@ -1,7 +1,7 @@
 const test = require('ava');
 const EncryptText = require('../src/encrypt-text');
 const mongoose = require('mongoose');
-const Mockgoose = require('mockgoose').Mockgoose;
+const Mockgoose = require('mock-mongoose').Mockgoose;
 const mockgoose = new Mockgoose(mongoose);
 const crypto = require('crypto');
 
