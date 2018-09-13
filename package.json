@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-encrypt-text",
+  "version": "1.0.0",
+  "description": "Encrypted Text Schema Type for Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "peerDependencies": {
+    "mongoose": "5.x"
+  },
+  "keywords": [
+    "encryprt",
+    "text",
+    "mongoose"
+  ],
+  "author": "Gautham Ramachandran (gautham2r@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "mockgoose": "^7.3.5",
+    "mongoose": "^5.2.14"
+  }
+}
