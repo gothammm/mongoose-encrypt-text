@@ -17,7 +17,7 @@
   "author": "Gautham Ramachandran (gautham2r@gmail.com)",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "mock-mongoose": "^7.3.6",
     "mongoose": "^5.2.14"
   }
